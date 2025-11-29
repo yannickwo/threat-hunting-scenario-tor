@@ -1,4 +1,4 @@
-# threat-hunting-scenario-tor
+# Threat-hunting-scenario-tor
 
 
 # Threat Hunt Report: Unauthorized TOR Usage
